@@ -1,0 +1,121 @@
+.red-background {
+  background-color: #FF005E;
+  background-size: cover;
+  margin-top:0;
+  max-height: 600px;
+  min-height: 400px;
+
+}
+
+.small-red-background {
+  background-color: #FF005E;
+  background-size: cover;
+  margin-top:0;
+  min-height: 275px;
+
+}
+
+.small-blue-background {
+  background-color: #325075;
+  background-size: cover;
+  margin-top:0;
+  margin-bottom: 0;
+
+}
+
+.footer-background {
+  background-color: #E8F6F9;
+  background-size: cover;
+  margin-top:0;
+  bottom:0;
+  box-shadow: 0px -4px 0 0 #E8E6E6;
+}
+
+.masthead-background {
+   background-image: url(/wp-content/themes/seed-academy/images/background.jpg);
+   background-size: cover;
+   margin-top: 0;
+   height: -moz-calc(100% - 100px); /* Firefox */
+   height: -webkit-calc(100% - 100px); /* Chrome, Safari */
+   height: calc(100% - 100px); /* IE9+ and future browsers */
+   min-height: 400px;
+   margin-bottom: 0;
+   padding-top: 10%;
+}
+
+.grey-background {
+  background-color: #E1E1E1;
+  background-size: cover;
+  max-height: 100px;
+  box-shadow: 0 4px 0 0 #C3C3C3;
+}
+
+.full-grey-background {
+  background-color: #f8f8f8;
+  background-size: cover;
+  padding-bottom: 1rem;
+  padding-top: 5rem;
+}
+
+.green-background {
+  background-color: #96DCCD;
+  background-size: cover;
+  margin-top:0;
+  bottom:0;
+  max-height: 200px;
+  box-shadow: 0 4px 0 0 #83BFB2;
+}
+
+.light-green-background {
+  background-color: #00F8B7;
+  background-size: cover;
+  margin-top:0;
+  bottom:0;
+  max-height: 200px;
+  box-shadow: 0 4px 0 0 #02C390;
+}
+
+.cta-container {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  padding: 2rem 2rem;
+}
+
+.card-container {
+  background-color: white;
+  border: 2px solid #83BFB2;
+  border-radius: 4px;
+  text-align: center;
+  padding: 2rem 4rem;
+}
+
+.tutor-container-top {
+  background-color: #FF4859;
+  border-radius: 4px 4px 0px 0px;
+  text-align: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 4rem;
+  margin-bottom: -10rem;
+}
+
+.tutor-container-bottom {
+  background-color: white;
+  border-radius: 0px 0px 4px 4px;
+  text-align: center;
+  padding-top: 12rem;
+  padding-bottom: 2rem;
+  border-bottom: solid 2px #f7f7f7;
+}
+
+.tutor-container-bottom a {
+  color: #00F8B7;
+  font-size: 3rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.tutor-colour-background {
+  background-color: #FF4859;
+}
