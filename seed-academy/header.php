@@ -43,6 +43,7 @@
   <a href="/"><img class="nav-logo" alt="Seed Academy Logo" title="Seed Publicity Logo" src="/wp-content/themes/seed-academy/images/logo.png" width="160" height="auto" ></a>
     <ul class="navbar-list">
       <li class="navbar-item"><a href="/about/">About</a></li>
+      <li class="navbar-item"><a href="/about/">Careers</a></li>
     </ul>
   </div>
 </div>
