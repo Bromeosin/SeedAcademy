@@ -38,9 +38,9 @@
    height: -moz-calc(100% - 100px); /* Firefox */
    height: -webkit-calc(100% - 100px); /* Chrome, Safari */
    height: calc(100% - 100px); /* IE9+ and future browsers */
-   min-height: 400px;
    margin-bottom: 0;
-   padding-top: 10%;
+   padding-top: 14%;
+
 }
 
 .grey-background {
@@ -118,4 +118,16 @@
 
 .tutor-colour-background {
   background-color: #FF4859;
+}
+
+.pop-up {
+  background-color: #325075;
+  border-radius: 4px;
+  border: 2px solid #c3c2c6;
+  width: 500px;
+  height: auto;
+  opacity: 1.0;
+  margin-top: 8%;
+  margin-left: auto;
+  margin-right: auto;
 }

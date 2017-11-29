@@ -3,17 +3,17 @@
   display: block;
   width: 100%;
   z-index: 99;
-  border-bottom: 4px solid #E1E1E1;
-  position: fixed;
+  border-bottom: 1px solid #E1E1E1;
   opacity: 1;
   top: 0;
+  position: fixed;
 }
 
 .nav-logo {
   list-style: none;
   margin: 0;
   float: left;
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
 }
 
 .navbar-list {
@@ -34,12 +34,10 @@
 
 .navbar-item a {
   font-weight: bold;
-  font-size: 1.8rem;
   text-decoration: none;
 }
 
 .navbar-item a:hover {
   border-bottom: 4px solid ##00F8B7;
-  color: #00F8B7;
   transition: all 0.2s;
 }

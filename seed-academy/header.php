@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="/wp-content/themes/seed-academy/css/font-awesome.css">
   <link rel="stylesheet" href="/wp-content/themes/seed-academy/css/font-awesome.min.css">
 
-  <link rel="stylesheet" href="/wp-content/themes/seed-academy/js/animation.js">
+  <script src="http://localhost:8888/wp-content/themes/seed-academy/js/pop-up.js"></script>
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -42,7 +42,7 @@
   <div class="container">
   <a href="/"><img class="nav-logo" alt="Seed Academy Logo" title="Seed Publicity Logo" src="/wp-content/themes/seed-academy/images/logo.png" width="160" height="auto" ></a>
     <ul class="navbar-list">
-      <li class="navbar-item"><a href="/about/">About</a></li>
+      <li class="navbar-item"><div class="button-container"><a id="enquiry" onclick="div_show()" class="green-button">Enquire now</a></div></li>
     </ul>
   </div>
 </div>
