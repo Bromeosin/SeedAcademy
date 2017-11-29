@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="/wp-content/themes/seed-academy/css/font-awesome.css">
   <link rel="stylesheet" href="/wp-content/themes/seed-academy/css/font-awesome.min.css">
 
-  <script src="http://localhost:8888/wp-content/themes/seed-academy/js/pop-up.js"></script>
+  <script src="/wp-content/themes/seed-academy/js/pop-up.js"></script>
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
