@@ -41,3 +41,19 @@
   border-bottom: 4px solid ##00F8B7;
   transition: all 0.2s;
 }
+
+/* For devices smaller than 400px */
+@media (max-width: 400px) {
+  .nav-logo {
+    padding-bottom: 2.5rem;
+
+  }
+
+  .navbar-item {
+    float: right;
+    margin-right: 0;
+    font-size: 1.4em;
+
+  }
+
+}

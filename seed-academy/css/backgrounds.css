@@ -80,6 +80,7 @@
   border-radius: 4px;
   text-align: center;
   padding: 2rem 2rem;
+  box-shadow: 0 4px 0 0 #E1E1E1;
 }
 
 .card-container {
@@ -130,4 +131,18 @@
   margin-top: 8%;
   margin-left: auto;
   margin-right: auto;
+}
+
+/* For devices smaller than 400px */
+@media (max-width: 400px) {
+  .masthead-background {
+    padding-top: 50%;
+    max-height: 450px;
+    margin-bottom: 0px;
+  }
+
+  .no-mobile {
+  display: none;
+  }
+
 }
